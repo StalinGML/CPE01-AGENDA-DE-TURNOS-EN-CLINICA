@@ -1,0 +1,14 @@
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\bin\Debug\net10.0\CPE-AgendaClínica.exe
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\bin\Debug\net10.0\CPE-AgendaClínica.deps.json
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\bin\Debug\net10.0\CPE-AgendaClínica.runtimeconfig.json
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\bin\Debug\net10.0\CPE-AgendaClínica.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\bin\Debug\net10.0\CPE-AgendaClínica.pdb
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.AssemblyInfo.cs
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\refint\CPE-AgendaClínica.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.pdb
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\CPE-AgendaClínica.genruntimeconfig.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\CPE-AgendaClínica\obj\Debug\net10.0\ref\CPE-AgendaClínica.dll
